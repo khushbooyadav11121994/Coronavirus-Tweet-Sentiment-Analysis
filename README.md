@@ -1,4 +1,3 @@
-# Coronavirus-Tweet-Sentiment-Analysis
 # Covid-19 Tweet Analysis
 <p align="center">
 <img 
